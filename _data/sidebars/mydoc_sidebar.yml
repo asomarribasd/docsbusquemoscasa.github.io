@@ -43,16 +43,16 @@ entries:
       output: web, pdf
 
   - title: Preguntas Frecuentes
-    output: web, pdf
+    output: web
     folderitems:
 
-    - title: Primeros Pasos
+    - title: Anuncio Desabilitado
       url: /faq_mi_anuncio_fue_desabilitado_por_contenido.html
-      output: web, pdf
+      output: web
 
-    - title: Introduccion
+    - title: Direccion correcta!
       url: /faq_usar_direccion_correcta.html
-      output: web, pdf
+      output: web
 
   - title: Actualizaciones
     output: web, pdf
