@@ -47,11 +47,11 @@ entries:
     folderitems:
 
     - title: Primeros Pasos
-      url: /index_2.html
+      url: /faq_mi_anuncio_fue_desabilitado_por_contenido.html
       output: web, pdf
 
     - title: Introduccion
-      url: /mydoc_introduction.html
+      url: /faq_usar_direccion_correcta.html
       output: web, pdf
 
   - title: Actualizaciones
