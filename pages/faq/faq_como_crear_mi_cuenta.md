@@ -1,5 +1,5 @@
 ---
-title: Como crear una cuenta en busquemos.casa.
+title: Como crear una cuenta en busquemos.casa
 tags: [inicio, cuenta]
 keywords: calidad, direccion, faq
 last_updated: March 30, 2020
