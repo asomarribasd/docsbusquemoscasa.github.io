@@ -5,7 +5,7 @@ tags: [faq, anuncios]
 keywords: propiedades, anuncios, faq, venta, alquiler
 last_updated: March 20, 2020
 summary: "Busquemos casa permite marcar anuncios como favoritos, esto le permite marcarlos para darles seguimiento o comparar propiedades."
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: faq_como_usar_mis_favoritos.html
 folder: faq
 ---

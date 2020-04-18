@@ -4,7 +4,7 @@ tags: [getting_started, formatting, content_types]
 keywords: posts, blog, news, authoring, exclusion, frontmatter
 last_updated: Feb 25, 2016
 summary: "You can use posts when you want to create blogs or news type of content."
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: mydoc_posts.html
 folder: mydoc
 ---
@@ -28,7 +28,7 @@ The frontmatter you can use with posts is as follows:
 title: My sample post
 tags: content_types
 keywords: pages, authoring, exclusion, frontmatter
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: mydoc_pages.html
 summary: "This is some summary frontmatter for my sample post."
 ---

@@ -1,10 +1,10 @@
 ---
-title: Que son y como usar las busquedas almacenadas en busquemos.casa.
+title: Busquedas almacenadas de busquemos.casa
 tags: [inicio, anuncio]
 keywords: anuncio, propiedades, alquiler, venta
 last_updated: March 30, 2020
 summary: "Las busquedas almacenadas le ayudaran a darse cuenta cuando una propiedad nueva se agregue con las caracteristicas que usted busca."
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: faq_que_son_busquedas_almacenadas.html
 folder: faq
 ---
@@ -31,5 +31,9 @@ Una ventana se abrira que le solicitara solo dos cosas, primero que nombre quier
 
 ## Regresar a una busqueda almacenada
 
+En la seccion de Anuncios de su propiedad
+
+
+![image-title-here](/images/faq/busqueda_almacenada_guardar_03.png){:class="img-responsive"}
 
 

@@ -2,7 +2,7 @@
 title: "Inicio documentacion y ayuda de busquemos.casa"
 keywords: inicio 
 tags: [inicio_ayuda]
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: index.html
 last_updated: Jan 20, 2020
 toc: false

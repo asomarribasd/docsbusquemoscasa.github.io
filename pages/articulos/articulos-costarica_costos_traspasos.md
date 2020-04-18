@@ -5,7 +5,7 @@ tags: [costarica, traspasos]
 keywords: calidad, direccion, faq
 summary: "La navegacion principal del sitio se basa en la localizacion en la que se busca una propiedad, por esa razon colocar la direccion correcta es de mucha importancia para que su propiedad sea vista por las personas correctas."
 permalink: articulos_costarica_costos_traspasos.html
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 folder: articulos
 ---
 
