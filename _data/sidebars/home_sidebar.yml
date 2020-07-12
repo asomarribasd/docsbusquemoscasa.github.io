@@ -83,15 +83,15 @@ entries:
     folderitems:
 
     - title: Como crear un anuncio
-      url: /mydoc_about_ruby_gems_etc.html
+      url: /faq_como_crear_un_anuncio.html
       output: web, pdf
 
-    - title: La ubicacion importa
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: La ubicación importa
+      url: /faq_usar_direccion_correcta.html
       output: web, pdf
 
-    - title: Mas informacion mas oportunidad
-      url: /mydoc_install_jekyll_on_windows.html
+    - title: Mas información mas oportunidad
+      url: /general_orden_propiedades_calidad_anuncio.html
       output: web, pdf
 
   - title: Busquedas
@@ -99,18 +99,18 @@ entries:
 
     folderitems:
     - title: Buscando en el mapa
-      url: /mydoc_commenting_on_files.html
+      url: /faq_como_buscar_una_propiedad.html
       output: web
 
-    - title: Buscando en listas
-      url: /mydoc_commenting_on_files.html
+    - title: Anuncios favoritos
+      url: /faq_como_usar_mis_favoritos.html
       output: web
 
     - title: Busquedas almacenadas
-      url: /mydoc_commenting_on_files.html
+      url: /faq_que_son_busquedas_almacenadas.html
       output: web
 
-  - title: Agentes
+  - title: Agentes y profesionales
     output: web, pdf
 
     folderitems:
@@ -118,17 +118,6 @@ entries:
       url: /mydoc_kb_layout.html
       output: web, pdf
 
-    - title: Informacion de su cuenta
-      url: /mydoc_glossary.html
-      output: web, pdf
 
-  - title: Publicidad
-    output: web
-
-    folderitems:
-
-    - title: Anunciar Propriedad
-      url: general_anunciar_propiedad.html
-      output: web
 
 

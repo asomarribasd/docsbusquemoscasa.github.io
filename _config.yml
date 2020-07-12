@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Busquemos casa documentacion
+feedback_subject_line: Busquemos casa documentación
 
 feedback_email: ayuda@busquemos.casa
 # used as a contact email for the Feedback link in the top navigation bar
@@ -106,7 +106,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Documentacion para el sitio busquemos.casa. Si esta ayuda no contiene la informacion que necesita, escriba a ayuda@busquemos.casa por mas informacion."
+description: "Documentación para el sitio busquemos.casa. Si esta ayuda no contiene la información que necesita, escriba a ayuda@busquemos.casa por mas información."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
