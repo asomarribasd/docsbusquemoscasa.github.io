@@ -115,7 +115,7 @@ entries:
 
     folderitems:
     - title: Perfil Publico
-      url: /mydoc_kb_layout.html
+      url: /general_perfil_publico_profesional.html
       output: web, pdf
 
 

@@ -27,7 +27,7 @@ La vista general de la busqueda tiene 3 secciones:
 * Listado
 * Mapa
 
-![image-title-here](/images/faq/buscar_propiedad_01.png){:class="img-responsive"}
+![image-title-here](/images/faq/buscar_propiedad_01_2.png){:class="img-responsive"}
 
 ### Filtros de las busquedas
 
