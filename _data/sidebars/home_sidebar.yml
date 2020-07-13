@@ -103,7 +103,7 @@ entries:
       output: web
 
     - title: Anuncios favoritos
-      url: /faq_como_usar_mis_favoritos.html
+      url: /general_anuncios_favoritos.html
       output: web
 
     - title: Busquedas almacenadas
