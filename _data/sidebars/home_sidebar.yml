@@ -54,10 +54,6 @@ entries:
       url: /faq_como_buscar_una_propiedad.html
       output: web
 
-    - title: Busquedas guardadas
-      url: /faq_que_son_busquedas_almacenadas.html
-      output: web
-
     - title: Administrando mis anuncios
       url: /faq_como_administro_mis_anuncios.html
       output: web
@@ -82,12 +78,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Como crear un anuncio
-      url: /faq_como_crear_un_anuncio.html
-      output: web, pdf
-
     - title: La ubicación importa
-      url: /faq_usar_direccion_correcta.html
+      url: /general_usar_direccion_correcta.html
       output: web, pdf
 
     - title: Mas información mas oportunidad
@@ -98,9 +90,6 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Buscando en el mapa
-      url: /faq_como_buscar_una_propiedad.html
-      output: web
 
     - title: Anuncios favoritos
       url: /general_anuncios_favoritos.html
